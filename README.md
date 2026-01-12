@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amitabh Dey</h1>
-<h3 align="center">Full Stack Developer | Java & JavaScript</h3>
+<h3 align="center">Full Stack Developer | MERN Stack</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AmitabhDey-byte&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -25,6 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
 </p>
 
 ---
