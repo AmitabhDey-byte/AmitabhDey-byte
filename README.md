@@ -1,5 +1,13 @@
+
+
 <h1 align="center">Amitabh Dey</h1>
 <h3 align="center">Full Stack Developer • AI Systems Builder • LLM Explorer</h3>
+
+<img width="810" height="810" alt="contributor" src="https://github.com/user-attachments/assets/10ef2cb8-a70d-44bd-b64d-2b66052d8954" />
+<img width="1080" height="1080" alt="ai" src="https://github.com/user-attachments/assets/596c05b7-6302-42eb-b487-f038d222c0be" />
+<img width="1080" height="1080" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/fa94d871-3b85-4a55-b96b-5cd7857c827b" />
+
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amitabh-dey101">
