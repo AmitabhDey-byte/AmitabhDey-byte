@@ -21,7 +21,7 @@
 
 ---
 
-## ⚡ About
+##  About
 
 - I build scalable full-stack applications and AI-powered systems  
 - Currently focused on LLMs, RAG pipelines, and backend architecture  
@@ -29,16 +29,16 @@
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
-- 🧠 Designing **RAG-based AI systems**  
-- ⚙️ Building scalable backends with **FastAPI & Node.js**  
-- 🌐 Creating modern full-stack apps using **Next.js**  
-- 📊 Developing tools like **Resume Analyzer & Career Roadmap Generator**  
+-  Designing **RAG-based AI systems**  
+-  Building scalable backends with **FastAPI & Node.js**  
+-  Creating modern full-stack apps using **Next.js**  
+-  Developing tools like **Resume Analyzer & Career Roadmap Generator**  
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,firebase,java,git,python" />
@@ -46,9 +46,9 @@
 
 ---
 
-## 🛠️ Featured Work
+##  Featured Work
 
-### 🔹 ChronoWeave  
+###  ChronoWeave  
 AI-powered career roadmap generator using RAG architecture  
 - Personalized roadmap generation  
 - Intelligent document retrieval  
@@ -57,7 +57,7 @@ AI-powered career roadmap generator using RAG architecture
 
 ---
 
-## 📈 Stats
+##  Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmitabhDey-byte&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -66,7 +66,7 @@ AI-powered career roadmap generator using RAG architecture
 
 ---
 
-## 🧠 Philosophy
+##  Philosophy
 
 > Build things that scale.  
 > Learn things that last.  
@@ -74,7 +74,7 @@ AI-powered career roadmap generator using RAG architecture
 
 ---
 
-## 📫 Reach Out
+##  Reach Out
 
 - LinkedIn → https://www.linkedin.com/in/amitabh-dey101  
 - Email → amitabhdey101@gmail.com  
@@ -82,5 +82,5 @@ AI-powered career roadmap generator using RAG architecture
 ---
 
 <p align="center">
-  ⚡ Always building. Always improving.
+   Always building. Always improving.
 </p>
