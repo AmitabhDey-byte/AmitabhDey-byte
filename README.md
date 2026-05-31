@@ -16,7 +16,7 @@
   <a href="mailto:amitabhdey101@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=flat&logo=gmail" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=AmitabhDey-byte&color=grey" />
+  <img src="https://komarev.com/ghpvc/?username=AmitabhDey-byte&color=blue" />
 </p>
 
 ---
